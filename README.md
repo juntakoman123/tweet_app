@@ -5,10 +5,10 @@
 
 環境紹介
 
-os: ubuntu(linux)
-rails -v: 5.2.3
-ruby 2.5.1
-db: 全環境postgreaql
+* OS: ubuntu(linux)
+* rails -v: 5.2.3
+* ruby 2.5.1
+* db: 全環境postgreaql
 
 
 足りない所
